@@ -23,16 +23,16 @@ const Profil = () => {
                     </div>
 
                     <div className='w-fit flex items-center gap-4'>
-                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:*:text-white'>
+                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:text-white'>
                             <FaLinkedinIn className='text-[22px]' />
                         </div>
-                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:*:text-white'>
+                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:text-white'>
                             <BsGithub className='text-[22px]' />
                         </div>
-                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:*:text-white'>
+                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:text-white'>
                             <FaTelegramPlane className='text-blue-600 text-[22px]' />
                         </div>
-                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:*:text-white'>
+                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:text-white'>
                             <FaWhatsapp className='text-lime-600 text-[22px]' />
                         </div>
                     </div>
@@ -40,35 +40,35 @@ const Profil = () => {
 
                 <section className='py-2 px-3 bg-gray-100 rounded-xl flex flex-col gap-3  sticky top-50'>
                     <div className='flex items-center gap-2'>
-                        <div className='p-1 rounded-lg bg-white hover:bg-blue-600'>
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600'>
                             <FaMobileAlt className='text-[27px]' />
                         </div>
                         <p>+212 771-550-311</p>
                     </div>
 
                     <div className='flex items-center gap-2'>
-                        <div className='p-1 rounded-lg bg-white hover:bg-blue-600'>
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600'>
                             <GrMailOption className='text-[27px]' />
                         </div>
                         <p>amine.ahmed.benel@gmail.com</p>
                     </div>
 
                     <div className='flex items-center gap-2'>
-                        <div className='p-1 rounded-lg bg-white hover:bg-blue-600'>
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600'>
                             <BiWorld className='text-[27px]' />
                         </div>
-                        <p>🇲🇦 Morocco</p>
+                        <p>Morocco 🇲🇦</p>
                     </div>
 
                     <div className='flex items-center gap-2'>
-                        <div className='p-1 rounded-lg bg-white hover:bg-blue-600'>
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600'>
                             <MdOutlineTranslate className='text-[27px]' />
                         </div>
                         <p>العربية - English - Frençais</p>
                     </div>
 
                     <div className='flex items-center gap-2'>
-                        <div className='p-1 rounded-lg bg-white hover:bg-blue-600'>
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600'>
                             <LuCalendarClock className='text-[27px]' />
                         </div>
                         <p>2002-06 (23)</p>
