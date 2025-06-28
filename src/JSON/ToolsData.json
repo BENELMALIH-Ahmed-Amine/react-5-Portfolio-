@@ -1,0 +1,104 @@
+{
+    "Tools": [
+        {
+            "id": 0,
+            "name": "HTML",
+            "icon": "HTML5",
+            "details": [
+                "The backbone of web pages, defining structure and content.",
+                "Introduces semantic tags(<header>, <article>) for better SEO and accessibility.",
+                "Supports multimedia (video/audio tags) without plugins."
+            ]
+        },
+        {
+            "id": 1,
+            "name": "CSS",
+            "icon": "CSS3",
+            "details": [
+                "Styles and beautifies HTML, enabling animations, and responsive layouts.",
+                "Features like Flexbox & Grid simplify complex designs.",
+                "Custom properties (variables) for reusable values."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Bootstrap",
+            "icon": "Bootstrap",
+            "details": [
+                "A pre-designed component library for fast, mobile-first development.",
+                "Uses a 12-column grid system and ready-made UI elements (buttons, modals).",
+                "Themes and customizable via Sass."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Sass",
+            "icon": "Sass",
+            "details": [
+                "CSS preprocessor adding variables, nesting, and mixins for cleaner code.",
+                "Compiles to standard CSS, reducing redundancy.",
+                "Partials and modular architecture for scalability."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "JavaScript",
+            "icon": "JavaScript",
+            "details": [
+                "The dynamic scripting language of the web.",
+                "Handles DOM manipulation, async operations (Promises), and event-driven programming.",
+                "Frameworks like React build atop it."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "JSON",
+            "icon": "JSON",
+            "details": [
+                "Lightweight data format for APIs and config files.",
+                "Human-readable key-value pairs derived from JavaScript objects.",
+                "Universal support across languages."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Vite",
+            "icon": "Vite",
+            "details": [
+                "Blazing-fast build tool for modern web apps.",
+                "Hot Module Replacement (HMR) for instant updates during development.",
+                "Supports React, Vue, and more out of the box."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "React",
+            "icon": "React",
+            "details": [
+                "A component-based UI library by Facebook.",
+                "Uses JSX (HTML-like syntax in JavaScript) and a virtual DOM for performance.",
+                "Ecosystem includes hooks, routers, and state managers."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "TailwindCSS",
+            "icon": "TailwindCSS",
+            "details": [
+                "Utility-first CSS framework for rapid styling without leaving HTML.",
+                "No pre-designed components-build custom designs using atomic classes.",
+                "PurgeCSS removes unused styles in production."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "MySQL",
+            "icon": "MySQL",
+            "details": [
+                "Relational database manage system (RDBMS) using SQL.",
+                "Stores data in tables with rows/columns, supporting complex queries.",
+                "Open-source and widely integrated (e.g., with PHP, Node.js)."
+            ]
+        }
+    ]
+}

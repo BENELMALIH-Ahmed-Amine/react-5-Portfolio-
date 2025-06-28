@@ -1,0 +1,52 @@
+{
+    "Websites": [
+        {
+            "id": 0,
+            "made": ["HTML5", "CSS3"],
+            "img": "loopstudios",
+            "lien": "https://benelmalih-ahmed-amine.github.io/Loopstudios-css/"
+        },
+        {
+            "id": 1,
+            "made": ["HTML5", "CSS3"],
+            "img": "AlexProtfolio",
+            "lien": "https://benelmalih-ahmed-amine.github.io/Portfolio-css-practice/"
+        },
+        {
+            "id": 2,
+            "made": ["HTML5", "CSS3"],
+            "img": "Copii",
+            "lien": "https://benelmalih-ahmed-amine.github.io/Copii-css/"
+        },
+        {
+            "id": 3,
+            "made": ["HTML5", "Bootstrap", "Sass"],
+            "img": "Siimple",
+            "lien": "https://benelmalih-ahmed-amine.github.io/Siimple-SASS-Bp/"
+        },
+        {
+            "id": 4,
+            "made": ["HTML5", "Bootstrap", "Sass"],
+            "img": "Delicioud",
+            "lien": "https://benelmalih-ahmed-amine.github.io/Delicious-SASS-Bp/"
+        },
+        {
+            "id": 5,
+            "made": ["HTML5", "CSS3", "JavaScript"],
+            "img": "Yummy",
+            "lien": "https://benelmalih-ahmed-amine.github.io/Ahmed_Amine_BENELMALIH_finalproject_dom/"
+        },
+        {
+            "id": 6,
+            "made": ["JavaScript", "JSON", "Vite", "React", "TailwindCSS"],
+            "img": "",
+            "lien": ""
+        },
+        {
+            "id": 7,
+            "made": ["JavaScript", "JSON", "Vite", "React", "TailwindCSS"],
+            "img": "",
+            "lien": ""
+        }
+    ]
+}

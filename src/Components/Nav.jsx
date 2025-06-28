@@ -3,7 +3,7 @@ import { FiActivity, FiCode, FiPhone } from 'react-icons/fi';
 import { MdDashboard, MdWorkspacesFilled } from 'react-icons/md';
 import { Link } from 'react-router-dom';
 
-const Nav = () => {
+const Nav = () => {    
     return (
         <nav className='w-fit h-fit py-3.5 px-4 bg-white rounded-2xl space-y-2 sticky top-10'>
             <Link to={'/'}>
