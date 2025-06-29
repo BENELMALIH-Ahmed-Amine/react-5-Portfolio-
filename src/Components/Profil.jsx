@@ -24,16 +24,16 @@ const Profil = () => {
                     </div>
 
                     <div className='w-fit flex items-center gap-4'>
-                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:text-white'>
+                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:text-white transition-colors duration-00'>
                             <FaLinkedinIn className='text-[22px]' />
                         </div>
-                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:text-white'>
+                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:text-white transition-colors duration-00'>
                             <BsGithub className='text-[22px]' />
                         </div>
-                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:*:text-white'>
+                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:*:text-white transition-colors duration-00'>
                             <FaTelegramPlane className='text-blue-600 text-[22px]' />
                         </div>
-                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:*:text-white'>
+                        <div className='p-2 rounded-lg bg-gray-100 hover:bg-blue-600 hover:in-hover:*:text-white transition-colors duration-00'>
                             <FaWhatsapp className='text-lime-600 text-[22px]' />
                         </div>
                     </div>
@@ -41,35 +41,35 @@ const Profil = () => {
 
                 <section className='py-2 px-3 bg-gray-100 rounded-xl flex flex-col gap-3  sticky top-50'>
                     <div className='flex items-center gap-2'>
-                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:in-hover:*:text-white'>
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:in-hover:*:text-white transition-colors duration-00'>
                             <FaMobileAlt className='text-amber-800 text-[27px]' />
                         </div>
                         <p>+212 771-550-311</p>
                     </div>
 
                     <div className='flex items-center gap-2'>
-                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:*:in-hover:text-white'>
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:*:in-hover:text-white transition-colors duration-00'>
                             <GrMailOption className='text-red-400 text-[27px]' />
                         </div>
                         <p>amine.ahmed.benel@gmail.com</p>
                     </div>
 
                     <div className='flex items-center gap-2'>
-                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:in-hover:*:text-white'>
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:in-hover:*:text-white transition-colors duration-00'>
                             <BiWorld className='text-[#086739] text-[27px]' />
                         </div>
                         <p>Morocco 🇲🇦</p>
                     </div>
 
                     <div className='flex items-center gap-2'>
-                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:in-hover:*:text-white'>
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:in-hover:*:text-white transition-colors duration-00'>
                             <MdOutlineTranslate className='text-blue-600 text-[27px]' />
                         </div>
                         <p>العربية - English - Frençais</p>
                     </div>
 
                     <div className='flex items-center gap-2'>
-                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:in-hover:*:text-white'>
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:in-hover:*:text-white transition-colors duration-00'>
                             <LuCalendarClock className='text-violet-600 text-[27px]' />
                         </div>
                         <p>2002-06 (23)</p>
