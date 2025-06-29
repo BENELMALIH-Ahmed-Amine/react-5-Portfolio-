@@ -12,8 +12,8 @@ const Nav = () => {
             <Link to={'/Skils'}>
             <div className="px-2 py-2 rounded-xl flex flex-col items-center hover:bg-blue-600 hover:in-hover:text-white"><FiCode className='text-[32px]'/>Skils</div>
             </Link>
-            <Link to={'/Project'}>
-            <div className="px-2 py-2 rounded-xl flex flex-col items-center hover:bg-blue-600 hover:in-hover:text-white"><MdWorkspacesFilled className='text-[32px]'/>Project</div>
+            <Link to={'/Projects'}>
+            <div className="px-2 py-2 rounded-xl flex flex-col items-center hover:bg-blue-600 hover:in-hover:text-white"><MdWorkspacesFilled className='text-[32px]'/>Projects</div>
             </Link>
             <Link to={'/Progress'}>
             <div className="px-2 py-2 rounded-xl flex flex-col items-center hover:bg-blue-600 hover:in-hover:text-white"><FiActivity className='text-[32px]'/>Progress</div>
