@@ -41,36 +41,36 @@ const Profil = () => {
 
                 <section className='py-2 px-3 bg-gray-100 rounded-xl flex flex-col gap-3  sticky top-50'>
                     <div className='flex items-center gap-2'>
-                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600'>
-                            <FaMobileAlt className='text-[27px]' />
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:in-hover:*:text-white'>
+                            <FaMobileAlt className='text-amber-800 text-[27px]' />
                         </div>
                         <p>+212 771-550-311</p>
                     </div>
 
                     <div className='flex items-center gap-2'>
-                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600'>
-                            <GrMailOption className='text-[27px]' />
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:*:in-hover:text-white'>
+                            <GrMailOption className='text-red-400 text-[27px]' />
                         </div>
                         <p>amine.ahmed.benel@gmail.com</p>
                     </div>
 
                     <div className='flex items-center gap-2'>
-                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600'>
-                            <BiWorld className='text-[27px]' />
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:in-hover:*:text-white'>
+                            <BiWorld className='text-[#086739] text-[27px]' />
                         </div>
                         <p>Morocco 🇲🇦</p>
                     </div>
 
                     <div className='flex items-center gap-2'>
-                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600'>
-                            <MdOutlineTranslate className='text-[27px]' />
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:in-hover:*:text-white'>
+                            <MdOutlineTranslate className='text-blue-600 text-[27px]' />
                         </div>
                         <p>العربية - English - Frençais</p>
                     </div>
 
                     <div className='flex items-center gap-2'>
-                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600'>
-                            <LuCalendarClock className='text-[27px]' />
+                        <div className='p-2 rounded-lg bg-white hover:bg-blue-600 hover:in-hover:*:text-white'>
+                            <LuCalendarClock className='text-violet-600 text-[27px]' />
                         </div>
                         <p>2002-06 (23)</p>
                     </div>

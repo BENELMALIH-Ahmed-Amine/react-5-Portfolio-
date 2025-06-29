@@ -13,7 +13,7 @@ import Contact from './Pages/Contact'
 function App() {
 
   return (
-    <div className='bg-pink-100'>
+    <div className='bg-blue-50'>
       {/* <MyProvider> */}
       <Top />
 
