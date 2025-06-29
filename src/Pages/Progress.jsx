@@ -2,7 +2,7 @@ import React from 'react';
 
 const Progress = () => {
     return (
-        <div className='w-[1000px] h-fit bg-white mx-20 px-15 pb-15 rounded-2xl  sticky top-10'>
+        <div className='w-[1000px] h-fit bg-white mx-20 px-15 pb-15 rounded-2xl sticky top-10'>
             <main className='w-full h-full flex flex-col items-center gap-10 relative'>
                 <section className='w-full bg-white flex flex-col items-center gap-5 pt-15 pb-5 sticky top-0 z-1'>
                     <h2 className='text-4xl font-semibold'>My Live progress</h2>
