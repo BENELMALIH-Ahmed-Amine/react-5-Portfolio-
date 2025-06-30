@@ -10,6 +10,8 @@ const Progress = () => {
                 </section>
 
                 <section className='flex flex-wrap justify-around gap-y-7'>
+                    
+                    <h4 className='-mb-4 underline'>It can take a few secondes</h4>
                     <img className='border w-full' src="https://wakatime.com/share/@7b51f2bb-877c-4ce7-80ed-cb442b86a90d/0112ba8a-c7cd-4e96-a951-5e2d98f625d7.svg" alt="Wait a moment please.." />
 
                     <img className='border w-full' src="https://wakatime.com/share/@7b51f2bb-877c-4ce7-80ed-cb442b86a90d/4e294cdf-7f2a-4ba0-875d-5a7d7fc8c873.png" alt="Wait a moment please.." />
