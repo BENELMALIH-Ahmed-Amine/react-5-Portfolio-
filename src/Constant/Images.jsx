@@ -6,6 +6,6 @@ import Delicioud from '../assets/Websites/Delicioud.png'
 import Yummy from '../assets/Websites/Yummy.png'
 import Recipious from '../assets/Websites/Recipious.png'
 import Howkscute from '../assets/Websites/Howkscute.png'
+import Fashe from '../assets/Websites/Fashe.png'
 
-
-export default { loopstudios, AlexProtfolio, Copii, Siimple, Delicioud, Yummy, Recipious, Howkscute }
+export default { loopstudios, AlexProtfolio, Copii, Siimple, Delicioud, Yummy, Recipious, Howkscute, Fashe }

@@ -8,7 +8,7 @@ const Contact = () => {
 
     const SendMessage = (e) => {
         e.preventDefault();
-        
+
         // get IDs
         const PublicId = "AqC5_edo3zDOC7AzM"
         const TemplateId = "template_yypklxj"
