@@ -10,8 +10,8 @@ const Projects = () => {
             <main className='w-full h-full flex flex-col items-center gap-10 relative'>
                 <section className='w-full   bg-white flex flex-col items-center gap-5 pt-15 pb-10 sticky top-0 z-1'>
                     <h2 className='text-4xl font-semibold'>Projects I Made all a long of my learning jurny</h2>
-                    {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem mollitia molestias nisi dolorem, eaque nesciunt rerum omnis molestiae corporis magnam voluptatibus labore vitae fugiat velit soluta exercitationem recusandae laborum iusto.</p> */}
                 </section>
+                
                 <section className='flex flex-wrap justify-around gap-y-7'>
                     {
                         Websites.reverse().map((w) =>
